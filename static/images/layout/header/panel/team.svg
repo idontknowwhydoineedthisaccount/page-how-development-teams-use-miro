@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="11px" viewBox="0 0 14 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>team</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Menu" sketch:type="MSArtboardGroup" transform="translate(-1131.000000, -981.000000)" fill="#C9CFD1">
+            <path d="M1135,983 L1132.00685,983 C1131.44995,983 1131,983.446616 1131,983.997545 L1131,991.002455 C1131,991.553689 1131.45078,992 1132.00685,992 L1143.99315,992 C1144.55005,992 1145,991.553384 1145,991.002455 L1145,983.997545 C1145,983.446311 1144.54922,983 1143.99315,983 L1141,983 L1141,981.999807 C1141,981.443717 1140.55641,981 1140.00922,981 L1135.99078,981 C1135.45098,981 1135,981.447629 1135,981.999807 L1135,983 Z M1136,982 L1140,982 L1140,983 L1136,983 L1136,982 Z" id="team" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

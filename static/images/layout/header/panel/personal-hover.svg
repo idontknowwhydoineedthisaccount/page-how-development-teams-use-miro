@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>personal hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Menu" sketch:type="MSArtboardGroup" transform="translate(-1166.000000, -935.000000)" fill="#6699FF">
+            <path d="M1176,949 L1178.99753,949 C1179.54424,949 1180,948.553614 1180,948.00297 L1180,943 L1182,943 L1174,935 L1166,943 L1168,943 L1168,948.00297 C1168,948.546964 1168.44882,949 1169.00247,949 L1172,949 L1172,945.002929 C1172,944.449027 1172.44335,944 1173.00937,944 L1174.99063,944 C1175.54809,944 1176,944.437881 1176,945.002929 L1176,949 Z" id="personal-hover" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
